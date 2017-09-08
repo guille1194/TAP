@@ -1,0 +1,8 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\bin\Debug\practica9.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\bin\Debug\practica9.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\bin\Debug\practica9.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\obj\Debug\practica9.Form1.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\obj\Debug\practica9.Properties.Resources.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\obj\Debug\practica9.csproj.GenerateResource.Cache
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\obj\Debug\practica9.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\practica9\practica9\obj\Debug\practica9.pdb

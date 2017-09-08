@@ -1,0 +1,14 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\MainWindow.g.cs
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\App.g.cs
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.lref
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\MainWindow.baml
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.g.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

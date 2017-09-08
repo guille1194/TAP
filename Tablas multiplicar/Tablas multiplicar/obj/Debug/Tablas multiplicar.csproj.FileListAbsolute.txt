@@ -1,0 +1,14 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\bin\Debug\Tablas multiplicar.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\bin\Debug\Tablas multiplicar.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\bin\Debug\Tablas multiplicar.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas multiplicar.csprojResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\MainWindow.g.cs
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\App.g.cs
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas multiplicar_MarkupCompile.cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas multiplicar_MarkupCompile.lref
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\MainWindow.baml
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas multiplicar.g.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas_multiplicar.Properties.Resources.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas multiplicar.csproj.GenerateResource.Cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas multiplicar.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Tablas multiplicar\Tablas multiplicar\obj\Debug\Tablas multiplicar.pdb
