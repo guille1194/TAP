@@ -1,0 +1,6 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica5Hilos\Practica5Hilos\bin\Debug\Practica5Hilos.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica5Hilos\Practica5Hilos\bin\Debug\Practica5Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica5Hilos\Practica5Hilos\bin\Debug\Practica5Hilos.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica5Hilos\Practica5Hilos\obj\Debug\Practica5Hilos.csprojResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica5Hilos\Practica5Hilos\obj\Debug\Practica5Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica5Hilos\Practica5Hilos\obj\Debug\Practica5Hilos.pdb
