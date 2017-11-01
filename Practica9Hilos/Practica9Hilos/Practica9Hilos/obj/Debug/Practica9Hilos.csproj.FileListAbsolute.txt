@@ -1,0 +1,9 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\bin\Debug\Practica9Hilos.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\bin\Debug\Practica9Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\bin\Debug\Practica9Hilos.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\obj\Debug\Practica9Hilos.csprojResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\obj\Debug\Practica9Hilos.Form1.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\obj\Debug\Practica9Hilos.Properties.Resources.resources
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\obj\Debug\Practica9Hilos.csproj.GenerateResource.Cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\obj\Debug\Practica9Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica9Hilos\Practica9Hilos\obj\Debug\Practica9Hilos.pdb
