@@ -1,0 +1,5 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica14Hilos\Practica14Hilos\bin\Debug\Practica14Hilos.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica14Hilos\Practica14Hilos\bin\Debug\Practica14Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica14Hilos\Practica14Hilos\bin\Debug\Practica14Hilos.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica14Hilos\Practica14Hilos\obj\Debug\Practica14Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica14Hilos\Practica14Hilos\obj\Debug\Practica14Hilos.pdb

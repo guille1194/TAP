@@ -1,0 +1,5 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica11Hilos\Practica11Hilos\bin\Debug\Practica11Hilos.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica11Hilos\Practica11Hilos\bin\Debug\Practica11Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica11Hilos\Practica11Hilos\bin\Debug\Practica11Hilos.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica11Hilos\Practica11Hilos\obj\Debug\Practica11Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica11Hilos\Practica11Hilos\obj\Debug\Practica11Hilos.pdb

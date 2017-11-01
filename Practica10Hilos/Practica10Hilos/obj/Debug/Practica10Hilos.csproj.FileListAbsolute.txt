@@ -1,0 +1,6 @@
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica10Hilos\Practica10Hilos\bin\Debug\Practica10Hilos.exe.config
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica10Hilos\Practica10Hilos\bin\Debug\Practica10Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica10Hilos\Practica10Hilos\bin\Debug\Practica10Hilos.pdb
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica10Hilos\Practica10Hilos\obj\Debug\Practica10Hilos.csprojResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica10Hilos\Practica10Hilos\obj\Debug\Practica10Hilos.exe
+c:\users\guillermo\documents\visual studio 2017\Projects\Practica10Hilos\Practica10Hilos\obj\Debug\Practica10Hilos.pdb
